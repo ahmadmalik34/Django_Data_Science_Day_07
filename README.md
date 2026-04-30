@@ -2,6 +2,10 @@
 
 This project involves performing Exploratory Data Analysis (EDA) on the Titanic dataset using the Pandas library. The goal is to uncover insights and patterns from the data.
 
+## Technology Stack
+- Python
+- Pandas
+
 ## Features
 
 -   **Data Loading**: Loads the Titanic dataset from CSV files into Pandas DataFrames.
@@ -32,3 +36,4 @@ The `data` directory contains the following files:
 -   `train.csv`: The training set.
 -   `test.csv`: The test set.
 -   `gender_submission.csv`: An example of the required submission format.
+
