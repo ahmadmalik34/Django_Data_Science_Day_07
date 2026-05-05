@@ -15,7 +15,7 @@
 
 ## 🎯 Overview
 
-Dive deep into the Titanic dataset using Pandas. Uncover survival patterns, analyze passenger demographics, and answer real questions with data.
+Dive deep into the famous Titanic dataset using Pandas. Uncover survival patterns, analyze passenger demographics, and answer real questions with data.
 
 **Understanding data before modeling is the real skill.**
 
